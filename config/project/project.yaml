@@ -1,0 +1,22 @@
+dateModified: 1673705607
+email:
+  fromEmail: info@skerm.be
+  fromName: Skerm
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    78c1ac65-e52e-49fb-a6ba-da9068598ac4: Skerm
+    549aa6e3-da74-4691-bba0-5a59d559eee4: Skerm
+    6857b87c-b212-4be6-a79f-de6d24c68154: Common
+system:
+  edition: solo
+  live: true
+  name: Skerm
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
